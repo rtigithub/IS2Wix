@@ -1,0 +1,16 @@
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\IS2WiXToolset.exe.config
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\IS2WiXToolset.exe
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\IS2WiXToolset.pdb
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\MainWindow.baml
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\MainWindow.g.cs
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\App.g.cs
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\IS2WiXToolset_MarkupCompile.cache
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\IS2WiXToolset.g.resources
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\IS2WiXToolset.Properties.Resources.resources
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\IS2WiXToolset.csproj.GenerateResource.Cache
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\IS2WiXToolset.exe
+c:\users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\obj\Debug\IS2WiXToolset.pdb
+C:\Users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\ic021673\documents\visual studio 2013\Projects\IS2WiXToolset\IS2WiXToolset\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
